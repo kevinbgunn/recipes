@@ -1,5 +1,5 @@
 # recipes
 Library Carpentry recipes
 
-** Hellow World! **
+** Hello World! **
 
